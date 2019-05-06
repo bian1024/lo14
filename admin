@@ -1,0 +1,4 @@
+#!/bin/bash
+
+echo 'Now you are ready on admin mode!'
+echo 'rvsh>'
